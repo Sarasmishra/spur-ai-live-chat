@@ -1,4 +1,4 @@
-# AI Live Chat Support Agent – Spur Hiring Assignment
+<img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/dfa899bb-545f-4a0a-92f3-958084b75293" /><img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/dfa899bb-545f-4a0a-92f3-958084b75293" /># AI Live Chat Support Agent – Spur Hiring Assignment
 
 This project is a full-stack AI-powered live chat application built as part of the **Spur Software Engineer hiring assignment**.
 
@@ -179,8 +179,8 @@ Frontend runs on:
 
 ## 🌐 Deployment
 
-- **Backend:** Deploy easily to [Render](https://render.com)
-- **Frontend:** Deploy to [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/)
+- **Backend:** https://spur-chat-backend-l1l3.onrender.com/
+- **Frontend:** https://spur-ai-live-chat.netlify.app/
 
 _Live deployment URLs will be added after deployment is complete._
 
