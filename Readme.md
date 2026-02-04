@@ -1,4 +1,4 @@
-<img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/dfa899bb-545f-4a0a-92f3-958084b75293" /><img width="1913" height="894" alt="image" src="https://github.com/user-attachments/assets/dfa899bb-545f-4a0a-92f3-958084b75293" /># AI Live Chat Support Agent – Spur Hiring Assignment
+# AI Live Chat Support Agent – Spur Hiring Assignment
 
 This project is a full-stack AI-powered live chat application built as part of the **Spur Software Engineer hiring assignment**.
 
@@ -182,8 +182,6 @@ Frontend runs on:
 - **Backend:** https://spur-chat-backend-l1l3.onrender.com/
 - **Frontend:** https://spur-ai-live-chat.netlify.app/
 
-_Live deployment URLs will be added after deployment is complete._
-
 ---
 
 ## 🔍 Trade-offs & Future Improvements
@@ -192,14 +190,6 @@ _Live deployment URLs will be added after deployment is complete._
 - Redis caching could accelerate session retrieval.
 - Multi-channel support (WhatsApp, Instagram, etc.) can be added.
 - UI improvements: typing indicators, themes, and more are possible.
-
----
-## 🔍 Trade-offs & Future Improvements
-
-- Authentication is intentionally skipped to keep the flow simple.
-- Redis caching can be added for faster session access.
-- Multi-channel support (WhatsApp, Instagram, etc.) can be integrated.
-- UI enhancements like typing indicators and themes can be added.
 
 --- 
 ## 👤 Author
